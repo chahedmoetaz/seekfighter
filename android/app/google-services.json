@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937874561017",
+    "project_id": "chato-a3a41",
+    "storage_bucket": "chato-a3a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937874561017:android:706f4d5a97d5d9d39f4f28",
+        "android_client_info": {
+          "package_name": "com.domain.seekfighter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937874561017-4surfr3li8f4ah9786p10dda8m3f5vsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDxJ_GJXx-0F7tgvOpUjx3GDfgbLEdIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937874561017-4surfr3li8f4ah9786p10dda8m3f5vsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
